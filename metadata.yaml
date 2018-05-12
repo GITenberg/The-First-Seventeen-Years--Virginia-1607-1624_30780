@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34827'
     url: http://www.gutenberg.org/2009/agents/34827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30780#The-First-Seventeen-Years--Virginia-1607-1624
 gutenberg_issued: '2009-12-28'
 gutenberg_type: Text
 identifiers:
